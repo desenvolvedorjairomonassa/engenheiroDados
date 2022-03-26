@@ -3,7 +3,7 @@ Trabalho prático
 
 Usei pandas
 
-Usei dask
+Usei dask => analisUseDask.ipynb
 
 Usei pyspark as dataframe
 
