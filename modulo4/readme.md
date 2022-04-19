@@ -7,4 +7,4 @@ Usei dask => analisUseDask.ipynb
 
 Usei pyspark as dataframe => analise_enem_spark_df.ipynb
 
-Usei pyspark como sql
+Usei pyspark como sql => analise_enem_spark_sql.ipynb
